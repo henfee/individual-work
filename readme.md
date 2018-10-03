@@ -7,4 +7,6 @@
 * Student repositories
 * GitHub Classroom
 * Premissions
+* Exercises
+* Automated testing
 
